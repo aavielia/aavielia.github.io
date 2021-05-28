@@ -108,22 +108,37 @@ nav ul li a:hover {
 .image {
     width: 75%;
     height: 400px;
-    background-image: url(./images/bioPic.jpg);
     background-size: cover;
     background-position: center;
 }
 
+#about-image {
+    background-image: url(./images/bioPic.jpg);
+}
+ 
+#pacmen-image {
+    background-image: url(./images/pacmen1.png);
+}
+
+#eyes-image {
+
+}
+
+#bus-tracker-image {
+
+}
+
 .exercises-section {
     width: 100vw;
-    height: 60vh;
+    height: 100vh;
 }
 
 .exercises-div {
+    width: 85%;
+    height: 30%;
+    margin: 0px auto;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    width: 40vw;
-    margin: 0px auto;
 }
 
 .contact-section {
