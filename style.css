@@ -121,11 +121,11 @@ nav ul li a:hover {
 }
 
 #eyes-image {
-    
+    background-image: url(./images/eyes.PNG);
 }
 
 #bus-tracker-image {
-
+    background-image: url(./images/map.PNG);
 }
 
 .exercises-section {
