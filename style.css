@@ -130,12 +130,10 @@ nav ul li a:hover {
 
 .exercises-section {
     width: 100vw;
-    height: 100vh;
 }
 
 .exercises-div {
     width: 85%;
-    height: 30%;
     margin: 0px auto;
     display: flex;
     flex-direction: row;
